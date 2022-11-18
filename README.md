@@ -1,8 +1,8 @@
-###Instalando Ubuntu no Windows
+### Instalando Ubuntu no Windows
 - Fazer o download do Ubuntu 22.04.1 LTS (WSL) e instalar.
 - Após instalado utilizar os comandos ```$ sudo apt-get update```, e ```$ sudo apt-get upgrade```, para atualizar o sistema.
 
-###Instalando Anaconda
+### Instalando Anaconda
 - Copiar o link de download do instalador Anaconda para linux no em:
 https://www.anaconda.com/products/distribution#Downloads.
 
